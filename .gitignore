@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+.idx/dev.nix
+.vscode/settings.json
